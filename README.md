@@ -75,3 +75,8 @@ The most important finding was that the initial 5-minute reaction often carried 
 This project is part of my data analytics portfolio, focused on financial markets, macroeconomic events, and data-driven market behavior.
 
 Feel free to connect with me on LinkedIn or view my other projects on GitHub.
+## Files Included
+
+- Full Excel workbook containing raw data, calculations, formulas, and chart construction
+- Visual analysis charts
+- Statistical analysis of CPI surprise behavior and NQ futures reactions
