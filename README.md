@@ -1,4 +1,5 @@
 # What 51 CPI Releases Revealed About NQ Futures Reactions
+## Event Study | Futures Markets | Macroeconomic Analysis
 
 ![5m vs 15m Reaction](images/five_min_vs_fifteen_min_reaction.png)
 
@@ -17,7 +18,7 @@ Rather than only looking at whether CPI was hotter or cooler than expected, this
 - Did larger CPI surprises create larger moves?
 - Did reactions continue or reverse after the initial move?
 
-The findings show that CPI reactions were not random. In many cases, the initial move contained meaningful information about the rest of the session.
+The findings suggest that CPI reactions often followed identifiable short-term behavioral patterns rather than completely random price movement. In many cases, the initial move contained meaningful information about the rest of the session.
 
 ## Data & Methodology
 
@@ -58,7 +59,7 @@ Hotter CPI releases produced an average close move of -0.91%, while cooler CPI r
 
 ![CPI Surprise vs 5-Minute Move](images/cpi_surprise_vs_5m_move.png)
 
-Larger CPI surprises were moderately associated with larger immediate NQ reactions, with a correlation of 0.44.
+Larger CPI surprises were moderately associated with larger immediate NQ reactions, with a correlation of 0.44. However, the relationship weakened when comparing CPI surprise size to end-of-day moves, suggesting that later market behavior was influenced by additional intraday factors beyond the initial inflation surprise.
 ### 5-Minute vs 15-Minute Reaction
 
 ![5-Minute vs 15-Minute CPI Reaction](images/five_min_vs_fifteen_min_reaction.png)
@@ -69,7 +70,7 @@ The 5-minute and 15-minute CPI reactions had a correlation of 0.96, showing extr
 This analysis found that CPI releases had a meaningful impact on NQ futures behavior. Hotter-than-expected CPI releases were strongly associated with bearish closes, while cooler CPI releases were more likely to produce bullish closes.
 
 The most important finding was that the initial 5-minute reaction often carried meaningful information. It matched the end-of-day direction about 71% of the time and had a very strong relationship with the 15-minute reaction.
-## Connect With Me
+## Additional Projects
 
 This project is part of my data analytics portfolio, focused on financial markets, macroeconomic events, and data-driven market behavior.
 
